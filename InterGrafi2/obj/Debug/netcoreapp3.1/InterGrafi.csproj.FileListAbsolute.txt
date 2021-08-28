@@ -1,0 +1,16 @@
+C:\Users\Rael\Desktop\Faculdade\Testes\InterGrafi\bin\Debug\netcoreapp3.1\InterGrafi.exe
+C:\Users\Rael\Desktop\Faculdade\Testes\InterGrafi\bin\Debug\netcoreapp3.1\InterGrafi.deps.json
+C:\Users\Rael\Desktop\Faculdade\Testes\InterGrafi\bin\Debug\netcoreapp3.1\InterGrafi.runtimeconfig.json
+C:\Users\Rael\Desktop\Faculdade\Testes\InterGrafi\bin\Debug\netcoreapp3.1\InterGrafi.runtimeconfig.dev.json
+C:\Users\Rael\Desktop\Faculdade\Testes\InterGrafi\bin\Debug\netcoreapp3.1\InterGrafi.dll
+C:\Users\Rael\Desktop\Faculdade\Testes\InterGrafi\bin\Debug\netcoreapp3.1\InterGrafi.pdb
+C:\Users\Rael\Desktop\Faculdade\Testes\InterGrafi\obj\Debug\netcoreapp3.1\InterGrafi.csprojAssemblyReference.cache
+C:\Users\Rael\Desktop\Faculdade\Testes\InterGrafi\obj\Debug\netcoreapp3.1\InterGrafi.Form1.resources
+C:\Users\Rael\Desktop\Faculdade\Testes\InterGrafi\obj\Debug\netcoreapp3.1\InterGrafi.Properties.Resources.resources
+C:\Users\Rael\Desktop\Faculdade\Testes\InterGrafi\obj\Debug\netcoreapp3.1\InterGrafi.csproj.GenerateResource.cache
+C:\Users\Rael\Desktop\Faculdade\Testes\InterGrafi\obj\Debug\netcoreapp3.1\InterGrafi.AssemblyInfoInputs.cache
+C:\Users\Rael\Desktop\Faculdade\Testes\InterGrafi\obj\Debug\netcoreapp3.1\InterGrafi.AssemblyInfo.cs
+C:\Users\Rael\Desktop\Faculdade\Testes\InterGrafi\obj\Debug\netcoreapp3.1\InterGrafi.csproj.CoreCompileInputs.cache
+C:\Users\Rael\Desktop\Faculdade\Testes\InterGrafi\obj\Debug\netcoreapp3.1\InterGrafi.dll
+C:\Users\Rael\Desktop\Faculdade\Testes\InterGrafi\obj\Debug\netcoreapp3.1\InterGrafi.pdb
+C:\Users\Rael\Desktop\Faculdade\Testes\InterGrafi\obj\Debug\netcoreapp3.1\InterGrafi.genruntimeconfig.cache
